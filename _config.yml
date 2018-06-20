@@ -1,17 +1,17 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Chwyatt Blog
+SEOTitle: Chwyatt的博客 | Chwyatt Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: tjchenwan@gmail.com
+description: "Welcome to my blog. It records my life and enjoy it"
+keyword: "Chwyatt, Chwyatt Blog, Chwyatt的博客, Android, 安卓， 英语"
+url: "http://chenshifangcheng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/chenshifangcheng/chenshifangcheng.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Keep moving!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,10 +19,10 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+# zhihu_username:     qiubaiying
+github_username:    chenshifangcheng
+# facebook_username:  baiying.qiu.7
+jianshu_username:   324a0a5a2576
 #twitter_username:   qiubaiying
 
 
@@ -99,11 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·陈式方程",
+        href: "http://www.jianshu.com/u/324a0a5a2576"
     },{
         title: "Apple",
         href: "https://apple.com"
