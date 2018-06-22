@@ -4,7 +4,7 @@ title:      Sublime写Markdown
 subtitle:   Sublime的安装、使用；结合MarkdownEditing、MarkdownPreview
 date:       2018-06-20
 author:     Chwyatt
-header-img:
+header-img: img/postimg/post-sublime-text-3-660x330-bg.jpg
 catalog: true
 categories: Tools
 tags:
@@ -12,7 +12,7 @@ tags:
     - Markdown
 ---
 
-> 本文环境是基于 Ubuntu16.04 + Sublime Text 3。
+> 本文环境基于 Ubuntu16.04 + Sublime Text 3。
 
 ## Sublime安装
 
@@ -28,7 +28,7 @@ Sublime的安装包括`apt安装`，`tar包安装`以及`deb安装`。
 
 下载下来是一个压缩包`sublime_text_3_build_3176_x64.tar.bz2`，解压后为`sublime_text_3`，我把它放在路径`/home/<user>/bin/sublime_text_3`下，目录结构如下：
 
-![insert picture]()
+![目录结构](/img/postimg/post-sublime-installed-folder-directory-structure.jpg)
 
 直接双击`sublime_text`就可以运行Sublime了。然而每次都要进入到这个路径双击太麻烦，可以考虑创建应用快捷图标desktop，方法如下：
 
@@ -85,7 +85,8 @@ Package Control安装有`Simple`和`Manual`2种方式。
 
 通过快捷键<kbd>Ctrl+Shift+P</kbd>或点击`Preferences->Package Control`（安装Package Control成功后才会有这个menu）调出命令面板，输入关键字，可以看到诸如
 `Package Control: install package`、`Package Control: remove package`等功能，如下图：
-![insert picture]()
+
+![](/img/postimg/post-package-control-function-list.jpg)
 
 ## MarkdownEditing插件
 
@@ -155,11 +156,4 @@ MarkdownPreview是用来在浏览器里预览markdown文档的，内嵌Python Ma
 
 还有一款预览插件叫`OmniMarkupPreviewer`，这款插件功能很强大，大家可以试试。
 
-## Link
-https://www.jianshu.com/p/bf05fb3a4709
-
-http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html
-
-https://github.com/mojombo
-
-http://blog.guorongfei.com/2015/04/25/how-to-fix-the-markdown-newline-blank-problem/
+另外，很不幸的是在Ubuntu下Sublime无法输入中文，也是很悲凉，解决办法[看这里](https://www.jianshu.com/p/bf05fb3a4709)。
