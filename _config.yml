@@ -52,7 +52,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-  hard_wrap: false             # true can line feed
+  hard_wrap: true             # true can line feed
 
 
 
