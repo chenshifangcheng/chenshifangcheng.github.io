@@ -5,6 +5,7 @@ subtitle:   Sublime的安装、使用；结合MarkdownEditing、MarkdownPreview
 date:       2018-06-20
 author:     Chwyatt
 header-img: img/postimg/post-1-sublime-text-3-660x330-bg.jpg
+header-mask: 0.0
 catalog: true
 categories: Tools
 tags:
