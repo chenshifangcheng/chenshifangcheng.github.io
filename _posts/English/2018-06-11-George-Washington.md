@@ -169,7 +169,7 @@ In other words, Washington was essential to the American experiment in self-gove
 
 ----
 #### 原文链接
-https://learningenglish.voanews.com/a/americas-presidents-washington/3714877.html
+<https://learningenglish.voanews.com/a/americas-presidents-washington/3714877.html>
 
 ----
 

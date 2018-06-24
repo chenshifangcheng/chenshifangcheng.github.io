@@ -1,29 +1,29 @@
 # Site settings
 title: Chwyatt Blog
 SEOTitle: Chwyatt的博客 | Chwyatt Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/chwyatt-bg-index.jpg
 email: tjchenwan@gmail.com
-description: "Welcome to my blog. It records my life and enjoy it"
-keyword: "Chwyatt, Chwyatt Blog, Chwyatt的博客, Android, 安卓， 英语"
+description: "Welcome to my blog. It records my life and enjoy it!"
+keyword: "Chwyatt, Chwyatt Blog, Chwyatt的博客, Android, 安卓，英语"
 url: "http://chenshifangcheng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/chenshifangcheng/chenshifangcheng.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Keep moving!"
-sidebar-avatar: /img/about-chwyatt-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Hey, this is Chwyatt."
+sidebar-avatar: /img/chwyatt-about-me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
+# weibo_username:     chenshifangcheng
+# zhihu_username:     chenshifangcheng
 github_username:    chenshifangcheng
-# facebook_username:  baiying.qiu.7
+# facebook_username:  chenshifangcheng
 jianshu_username:   324a0a5a2576
-#twitter_username:   qiubaiying
+#twitter_username:   chenshifangcheng
 
 
 
@@ -52,28 +52,28 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-  hard_wrap: true             # true can line feed
+  hard_wrap: true             # true can CRLF(Carriage Return and Line Feed) even when hit Enter once
 
 
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: chenshifangcheng
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: chenshifangcheng.github.io    #仓库名称
+  owner: chenshifangcheng    #github用户名
+  admin: chenshifangcheng
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
-
 # Analytics settings
+
 # Baidu Analytics
 ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
@@ -103,10 +103,13 @@ friends: [
         title: "简书·陈式方程",
         href: "http://www.jianshu.com/u/324a0a5a2576"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Android Source",
+        href: "https://source.android.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Android Developer",
+        href: "https://developer.android.com/"
+    },{
+        title: "Android Xref",
+        href: "http://androidxref.com/"
     }
 ]

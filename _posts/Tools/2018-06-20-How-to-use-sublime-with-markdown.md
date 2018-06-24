@@ -4,7 +4,7 @@ title:      Sublime写Markdown
 subtitle:   Sublime的安装、使用；结合MarkdownEditing、MarkdownPreview
 date:       2018-06-20
 author:     Chwyatt
-header-img: img/postimg/post-sublime-text-3-660x330-bg.jpg
+header-img: img/postimg/post-1-sublime-text-3-660x330-bg.jpg
 catalog: true
 categories: Tools
 tags:
@@ -28,7 +28,7 @@ Sublime的安装包括`apt安装`，`tar包安装`以及`deb安装`。
 
 下载下来是一个压缩包`sublime_text_3_build_3176_x64.tar.bz2`，解压后为`sublime_text_3`，我把它放在路径`/home/<user>/bin/sublime_text_3`下，目录结构如下：
 
-![目录结构](/img/postimg/post-sublime-installed-folder-directory-structure.jpg)
+![目录结构](/img/postimg/post-1-sublime-installed-folder-directory-structure.jpg)
 
 直接双击`sublime_text`就可以运行Sublime了。然而每次都要进入到这个路径双击太麻烦，可以考虑创建应用快捷图标desktop，方法如下：
 
@@ -86,7 +86,7 @@ Package Control安装有`Simple`和`Manual`2种方式。
 通过快捷键<kbd>Ctrl+Shift+P</kbd>或点击`Preferences->Package Control`（安装Package Control成功后才会有这个menu）调出命令面板，输入关键字，可以看到诸如
 `Package Control: install package`、`Package Control: remove package`等功能，如下图：
 
-![](/img/postimg/post-package-control-function-list.jpg)
+![](/img/postimg/post-1-package-control-function-list.jpg)
 
 ## MarkdownEditing插件
 
