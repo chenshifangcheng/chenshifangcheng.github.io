@@ -175,11 +175,9 @@ On July 4, 1826 – the nation’s 50th birthday – the two friends, **patriots
 
 [^8]: **for one thing** - 首先，一方面，但是，一则
 
-[^9]: **swimming upstream** - To go against or disagree with a prevailing or popularly held opinion or perspective; to act or behave contrary to the majority of others. 
-*e.g.* When I was in college, I really swam upstream with some radical opinions, but as I've grown older, I've found myself falling more in line with others. I don't understand why you always have to swim upstream instead of making things a little easier on yourself!
+[^9]: **swimming upstream** - To go against or disagree with a prevailing or popularly held opinion or perspective; to act or behave contrary to the majority of others.<br>*e.g.* When I was in college, I really swam upstream with some radical opinions, but as I've grown older, I've found myself falling more in line with others. I don't understand why you always have to swim upstream instead of making things a little easier on yourself!
 
-[^10]: **be in over your head** - to be involved in a difficult situation that you cannot get out of - 陷入一种你无法摆脱的困境。
-*e.g.* Sean tried to pay his gambling debts, but he was in over his head.
+[^10]: **be in over your head** - to be involved in a difficult situation that you cannot get out of - 陷入一种你无法摆脱的困境。<br>*e.g.* Sean tried to pay his gambling debts, but he was in over his head.
 
 [^11]: **get pulled into** - 被拉到
 

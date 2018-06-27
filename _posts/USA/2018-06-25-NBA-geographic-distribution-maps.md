@@ -14,6 +14,8 @@ tags:
 
 > 文 / [陈式方程](https://www.jianshu.com/u/324a0a5a2576)
 
+## 相关介绍
+
 NBA是很多人都喜欢的体育运动，经常听到介绍某个球队时为某地区+球队名，如休斯顿火箭队；然而很多人并不了解NBA的30支球队具体分布在美国的哪个区、哪些地方。本篇介绍了NBA球队所在地区。
 
 首先，了解一下NBA历史。NBA官方称作国家篮球协会（英语：National Basketball Association，缩写为NBA），是北美男子职业篮球组织，由成立之初的11支球队发展到现在的30支，分属两个分区（Conference）：东部联盟和西部联盟；而每个分区各由三个赛区（Division）组成，每个赛区有五支球队。所属球队中除了一支来自加拿大的多伦多之外，其余均位于美国。其赛事美国职业篮球联赛（或称美国篮球联赛，简称美职篮）也被直接称为NBA。
@@ -78,6 +80,7 @@ NBA前身是1946年成立的美国篮球协会（简称BAA，Basketball Associat
 | [西南赛区](https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8D%97%E8%B5%9B%E5%8C%BA "西南赛区") | **[圣安东尼奥马刺](https://zh.wikipedia.org/wiki/%E5%9C%A3%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%E9%A9%AC%E5%88%BA "圣安东尼奥马刺")**<br>San Antonio Spurs | [德克萨斯州](https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%85%8B%E8%96%A9%E6%96%AF%E5%B7%9E "德克萨斯州")，[圣安东尼奥](https://zh.wikipedia.org/wiki/%E5%9C%A3%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5 "圣安东尼奥")<br>Texas, San Antonio | [AT&T中心](https://zh.wikipedia.org/wiki/AT%26T%E4%B8%AD%E5%BF%83 "AT&T中心")<br>AT&T Center |
 
 ---
+
 ## 声明&链接
 1. 图片来自网络，侵删。
 2. [National_Basketball_Association](https://en.wikipedia.org/wiki/National_Basketball_Association)

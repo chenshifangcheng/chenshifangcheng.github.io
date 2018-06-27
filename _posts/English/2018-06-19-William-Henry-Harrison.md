@@ -12,7 +12,7 @@ tags:
     - USA Presidents
 ---
 
-> 译 / [陈式方程](https://www.jianshu.com/u/324a0a5a2576)
+> 译 / [Chwyatt](https://chenshifangcheng.github.io/)
 
 ![America's Presidents - William Henry Harrison 美国总统 — 威廉·亨利·哈里森](https://upload-images.jianshu.io/upload_images/1833627-c28ebbd3486e35df.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -51,7 +51,7 @@ His presidential campaign reminded voters about the battle. The nickname “Tipp
 But that image of Harrison was not entirely true.
 但哈里森的形象不完全是真的。
 
-**Early life 早期生活**
+#### Early life 早期生活
 
 Harrison did not come from a simple, western family.
 哈里森并不是来自一个普通的西方家庭。
@@ -90,7 +90,7 @@ In that battle, both the British and Native Americans were clearly defeated. Tec
 After that, the Native American alliance fell apart. And Harrison became famous again.
 在那之后，美洲印第安联盟土崩瓦解。哈里森再一次成名。
 
-**Political career 政治生涯**
+#### Political career 政治生涯
 
 Although Harrison was a well-known fighter against Native Americans, he could not find lasting success as a politician.
 尽管哈里森是一位著名的反印第安人斗士，但作为政治家，他没能找到持久的成功。
@@ -145,7 +145,7 @@ But Harrison’s supporters used the images of a log cabin and hard cider to por
 The plan was a success: Harrison won the election.
 计划成功了：哈里森赢得了选举。
 
-**A surprising turn of events 事情的突然转变**
+#### A surprising turn of events 事情的突然转变
 
 At 68, Harrison was the oldest person yet to take office.
 68岁的哈里森是当时年龄最大的总统。

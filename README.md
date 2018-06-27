@@ -13,7 +13,7 @@
 
 ## License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/chenshifangcheng/chenshifangcheng.github.io/blob/master/LICENSE)。
+遵循 MIT 许可证。有关详细，请参阅 [LICENSE](https://github.com/chenshifangcheng/chenshifangcheng.github.io/blob/master/LICENSE)。
 
 
 [Jekyll]: https://jekyllrb.com/

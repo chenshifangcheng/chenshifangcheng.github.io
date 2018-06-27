@@ -14,17 +14,20 @@ tags:
 
 > 文 / [陈式方程](https://www.jianshu.com/u/324a0a5a2576)
 
-#### 注意事项：
+### 注意事项：
 
 * 手机端体验很差，建议电脑端查看。
 * 本篇是基于维基百科内容，详情见链接。
-----------------------------------------------------------------------------------------------------------------
-#### 相关链接：
+
+---
+### 相关链接：
 
 * [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 * [ISO 639-1代码表](https://zh.wikipedia.org/wiki/ISO_639-1代码表)
 * [语系列表](https://zh.wikipedia.org/wiki/语系列表)
-----------------------------------------------------------------------------------------------------------------
+
+---
+### 介绍：
 
  [ISO 639](https://en.wikipedia.org/wiki/ISO_639 "ISO 639") 是用来分类[语言](https://en.wikipedia.org/wiki/Language "Language")的标准命名法（术语）。每种语言分配 2个小写字母缩写（639-1）或 3个小写字母缩写（639-2和639-3），3个字母在后面的修订版本中增加。
 
@@ -39,10 +42,10 @@ tags:
 * [ISO 639-2/B](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2"): 3字母语言码，大部分与639-2/T相同，但有些语言码来源于英文名称而不是（他们自己的）本地语言（列表中通过黑粗体来区分）
 
 * [ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3"): 3字母语言码，与639-2/T相同，但是，对于不同种类的ISO 639宏语言，有不同的语言码。
-----------------------------------------------------------------------------------------------------------------
 
-> [Indo-European](https://en.wikipedia.org/wiki/Indo-European_languages "Indo-European languages")
-[印欧语系](https://zh.wikipedia.org/wiki/%E5%8D%B0%E6%AC%A7%E8%AF%AD%E7%B3%BB)
+---
+
+#### [Indo-European](https://en.wikipedia.org/wiki/Indo-European_languages "Indo-European languages") <br>[印欧语系](https://zh.wikipedia.org/wiki/%E5%8D%B0%E6%AC%A7%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -124,8 +127,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Niger–Congo](https://en.wikipedia.org/wiki/Niger%E2%80%93Congo_languages)
-> [尼日尔-刚果语系](https://zh.wikipedia.org/wiki/%E5%B0%BC%E6%97%A5%E5%B0%94-%E5%88%9A%E6%9E%9C%E8%AF%AD%E7%B3%BB)
+#### [Niger–Congo](https://en.wikipedia.org/wiki/Niger%E2%80%93Congo_languages) <br>[尼日尔-刚果语系](https://zh.wikipedia.org/wiki/%E5%B0%BC%E6%97%A5%E5%B0%94-%E5%88%9A%E6%9E%9C%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -162,8 +164,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
->[Sino-Tibetan](https://en.wikipedia.org/wiki/Sino-Tibetan_languages "Sino-Tibetan languages")
-[汉藏语系](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%97%8F%E8%AF%AD%E7%B3%BB)
+#### [Sino-Tibetan](https://en.wikipedia.org/wiki/Sino-Tibetan_languages "Sino-Tibetan languages") <br>[汉藏语系](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%97%8F%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -175,8 +176,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Turkic](https://en.wikipedia.org/wiki/Turkic_languages "Turkic languages")
-[突厥语族](https://zh.wikipedia.org/wiki/%E7%AA%81%E5%8E%A5%E8%AF%AD%E6%97%8F)
+#### [Turkic](https://en.wikipedia.org/wiki/Turkic_languages "Turkic languages") <br>[突厥语族](https://zh.wikipedia.org/wiki/%E7%AA%81%E5%8E%A5%E8%AF%AD%E6%97%8F)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -193,8 +193,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Uralic](https://en.wikipedia.org/wiki/Uralic_languages "Uralic languages")
-[乌拉尔语系](https://zh.wikipedia.org/wiki/%E4%B9%8C%E6%8B%89%E5%B0%94%E8%AF%AD%E7%B3%BB)
+#### [Uralic](https://en.wikipedia.org/wiki/Uralic_languages "Uralic languages") <br>[乌拉尔语系](https://zh.wikipedia.org/wiki/%E4%B9%8C%E6%8B%89%E5%B0%94%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -206,8 +205,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Austronesian](https://en.wikipedia.org/wiki/Austronesian_languages "Austronesian languages")
-[南岛语系](https://zh.wikipedia.org/wiki/%E5%8D%97%E5%B3%B6%E8%AA%9E%E7%B3%BB)
+#### [Austronesian](https://en.wikipedia.org/wiki/Austronesian_languages "Austronesian languages") <br>[南岛语系](https://zh.wikipedia.org/wiki/%E5%8D%97%E5%B3%B6%E8%AA%9E%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -230,8 +228,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Afro-Asiatic](https://en.wikipedia.org/wiki/Afro-Asiatic_languages "Afro-Asiatic languages")
-[亚非语系](https://zh.wikipedia.org/wiki/%E4%BA%9A%E9%9D%9E%E8%AF%AD%E7%B3%BB)
+#### [Afro-Asiatic](https://en.wikipedia.org/wiki/Afro-Asiatic_languages "Afro-Asiatic languages") <br>[亚非语系](https://zh.wikipedia.org/wiki/%E4%BA%9A%E9%9D%9E%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -247,8 +244,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Northwest Caucasian](https://en.wikipedia.org/wiki/Northwest_Caucasian_languages "Northwest Caucasian languages")
-[西北高加索语系](https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8C%97%E9%AB%98%E5%8A%A0%E7%B4%A2%E8%AF%AD%E7%B3%BB)
+#### [Northwest Caucasian](https://en.wikipedia.org/wiki/Northwest_Caucasian_languages "Northwest Caucasian languages") <br>[西北高加索语系](https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8C%97%E9%AB%98%E5%8A%A0%E7%B4%A2%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -256,8 +252,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Northeast Caucasian](https://en.wikipedia.org/wiki/Northeast_Caucasian_languages "Northeast Caucasian languages")
-[东北高加索语系](https://zh.wikipedia.org/wiki/%E4%B8%9C%E5%8C%97%E9%AB%98%E5%8A%A0%E7%B4%A2%E8%AF%AD%E7%B3%BB)
+#### [Northeast Caucasian](https://en.wikipedia.org/wiki/Northeast_Caucasian_languages "Northeast Caucasian languages") <br>[东北高加索语系](https://zh.wikipedia.org/wiki/%E4%B8%9C%E5%8C%97%E9%AB%98%E5%8A%A0%E7%B4%A2%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -266,8 +261,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [South Caucasian](https://en.wikipedia.org/wiki/South_Caucasian_languages "South Caucasian languages")
-[南高加索语系](https://zh.wikipedia.org/wiki/%E5%8D%97%E9%AB%98%E5%8A%A0%E7%B4%A2%E8%AF%AD%E7%B3%BB)
+#### [South Caucasian](https://en.wikipedia.org/wiki/South_Caucasian_languages "South Caucasian languages") <br>[南高加索语系](https://zh.wikipedia.org/wiki/%E5%8D%97%E9%AB%98%E5%8A%A0%E7%B4%A2%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -275,8 +269,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Creole](https://en.wikipedia.org/wiki/Creole_languages "Creole languages")
-[克里奥尔语](https://zh.wikipedia.org/wiki/%E5%85%8B%E9%87%8C%E5%A5%A7%E7%88%BE%E8%AA%9E)
+#### [Creole](https://en.wikipedia.org/wiki/Creole_languages "Creole languages") <br>[克里奥尔语](https://zh.wikipedia.org/wiki/%E5%85%8B%E9%87%8C%E5%A5%A7%E7%88%BE%E8%AA%9E)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -286,8 +279,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Eskimo–Aleut](https://en.wikipedia.org/wiki/Eskimo%E2%80%93Aleut_languages "Eskimo–Aleut languages")
-[爱斯基摩－阿留申语系](https://zh.wikipedia.org/wiki/%E7%88%B1%E6%96%AF%E5%9F%BA%E6%91%A9%EF%BC%8D%E9%98%BF%E7%95%99%E7%94%B3%E8%AF%AD%E7%B3%BB)
+#### [Eskimo–Aleut](https://en.wikipedia.org/wiki/Eskimo%E2%80%93Aleut_languages "Eskimo–Aleut languages") <br>[爱斯基摩－阿留申语系](https://zh.wikipedia.org/wiki/%E7%88%B1%E6%96%AF%E5%9F%BA%E6%91%A9%EF%BC%8D%E9%98%BF%E7%95%99%E7%94%B3%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -297,8 +289,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Dravidian](https://en.wikipedia.org/wiki/Dravidian_languages "Dravidian languages")
-[达罗毗荼语系](https://zh.wikipedia.org/wiki/%E8%BE%BE%E7%BD%97%E6%AF%97%E8%8D%BC%E8%AF%AD%E7%B3%BB)
+#### [Dravidian](https://en.wikipedia.org/wiki/Dravidian_languages "Dravidian languages") <br>[达罗毗荼语系](https://zh.wikipedia.org/wiki/%E8%BE%BE%E7%BD%97%E6%AF%97%E8%8D%BC%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -309,8 +300,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Constructed](https://en.wikipedia.org/wiki/Constructed_languages "Constructed languages")
-[人工语言](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E8%AA%9E%E8%A8%80)
+#### [Constructed](https://en.wikipedia.org/wiki/Constructed_languages "Constructed languages") <br>[人工语言](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E8%AA%9E%E8%A8%80)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -322,8 +312,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Aymaran](https://en.wikipedia.org/wiki/Aymaran_languages "Aymaran languages")
-[艾马拉语系](https://zh.wikipedia.org/wiki/%E8%89%BE%E9%A6%AC%E6%8B%89%E8%AA%9E)
+#### [Aymaran](https://en.wikipedia.org/wiki/Aymaran_languages "Aymaran languages") <br>[艾马拉语系](https://zh.wikipedia.org/wiki/%E8%89%BE%E9%A6%AC%E6%8B%89%E8%AA%9E)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -331,8 +320,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Language isolate](https://en.wikipedia.org/wiki/Language_isolate "Language isolate")
-[孤立语言](https://zh.wikipedia.org/wiki/%E5%AD%A4%E7%AB%8B%E8%AF%AD%E8%A8%80)
+#### [Language isolate](https://en.wikipedia.org/wiki/Language_isolate "Language isolate") <br>[孤立语言](https://zh.wikipedia.org/wiki/%E5%AD%A4%E7%AB%8B%E8%AF%AD%E8%A8%80)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -340,8 +328,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Algonquian](https://en.wikipedia.org/wiki/Algonquian_languages "Algonquian languages")
-[阿尔冈昆语族](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%86%88%E6%98%86%E8%AF%AD%E6%97%8F)
+#### [Algonquian](https://en.wikipedia.org/wiki/Algonquian_languages "Algonquian languages") <br>[阿尔冈昆语族](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%86%88%E6%98%86%E8%AF%AD%E6%97%8F)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -350,8 +337,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Tupian](https://en.wikipedia.org/wiki/Tupian_languages "Tupian languages")
-[图皮语系](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%9A%AE%E8%AF%AD%E7%B3%BB)
+#### [Tupian](https://en.wikipedia.org/wiki/Tupian_languages "Tupian languages") <br>[图皮语系](https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%9A%AE%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -359,8 +345,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Japonic](https://en.wikipedia.org/wiki/Japonic "Japonic")
-[日本－琉球语系](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%EF%BC%8D%E7%90%89%E7%90%83%E8%AF%AD%E7%B3%BB)
+#### [Japonic](https://en.wikipedia.org/wiki/Japonic "Japonic") <br>[日本－琉球语系](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%EF%BC%8D%E7%90%89%E7%90%83%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -368,8 +353,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Nilo-Saharan](https://en.wikipedia.org/wiki/Nilo-Saharan_languages "Nilo-Saharan languages")
-[尼罗-撒哈拉语系](https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%BD%97-%E6%92%92%E5%93%88%E6%8B%89%E8%AF%AD%E7%B3%BB)
+#### [Nilo-Saharan](https://en.wikipedia.org/wiki/Nilo-Saharan_languages "Nilo-Saharan languages") <br>[尼罗-撒哈拉语系](https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%BD%97-%E6%92%92%E5%93%88%E6%8B%89%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -377,8 +361,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Austroasiatic](https://en.wikipedia.org/wiki/Austroasiatic_languages "Austroasiatic languages")
-[南亚语系](https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%9A%E8%AF%AD%E7%B3%BB)
+#### [Austroasiatic](https://en.wikipedia.org/wiki/Austroasiatic_languages "Austroasiatic languages") <br>[南亚语系](https://zh.wikipedia.org/wiki/%E5%8D%97%E4%BA%9A%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -387,8 +370,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Koreanic](https://en.wikipedia.org/wiki/Koreanic "Koreanic")
-[朝鲜语系](https://zh.wikipedia.org/wiki/%E6%9C%9D%E9%B2%9C%E8%AF%AD%E7%B3%BB)
+#### [Koreanic](https://en.wikipedia.org/wiki/Koreanic "Koreanic") <br>[朝鲜语系](https://zh.wikipedia.org/wiki/%E6%9C%9D%E9%B2%9C%E8%AF%AD%E7%B3%BB)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -396,8 +378,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
->  [Tai–Kadai](https://en.wikipedia.org/wiki/Tai%E2%80%93Kadai_languages "Tai–Kadai languages")
-[壮侗语族](https://zh.wikipedia.org/wiki/%E5%A3%AF%E4%BE%97%E8%AA%9E%E6%97%8F)
+#### [Tai–Kadai](https://en.wikipedia.org/wiki/Tai%E2%80%93Kadai_languages "Tai–Kadai languages") <br>[壮侗语族](https://zh.wikipedia.org/wiki/%E5%A3%AF%E4%BE%97%E8%AA%9E%E6%97%8F)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -407,8 +388,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Mongolic](https://en.wikipedia.org/wiki/Mongolic_languages "Mongolic languages")
-[蒙古语族](https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E8%AF%AD%E6%97%8F)
+#### [Mongolic](https://en.wikipedia.org/wiki/Mongolic_languages "Mongolic languages") <br>[蒙古语族](https://zh.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E8%AF%AD%E6%97%8F)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -416,8 +396,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Dené–Yeniseian](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Yeniseian_languages "Dené–Yeniseian languages")
-[德内－叶尼塞语门](https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%85%A7%EF%BC%8D%E8%91%89%E5%B0%BC%E5%A1%9E%E8%AA%9E%E9%96%80)
+#### [Dené–Yeniseian](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Yeniseian_languages "Dené–Yeniseian languages") <br>[德内－叶尼塞语门](https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%85%A7%EF%BC%8D%E8%91%89%E5%B0%BC%E5%A1%9E%E8%AA%9E%E9%96%80)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -425,8 +404,7 @@ tags:
 
 ----------------------------------------------------------------------------------------------------------------
 
-> [Quechuan](https://en.wikipedia.org/wiki/Quechuan_languages "Quechuan languages")
-[克丘亚语](https://zh.wikipedia.org/wiki/%E5%85%8B%E4%B8%98%E4%BA%9E%E8%AA%9E)
+#### [Quechuan](https://en.wikipedia.org/wiki/Quechuan_languages "Quechuan languages") <br>[克丘亚语](https://zh.wikipedia.org/wiki/%E5%85%8B%E4%B8%98%E4%BA%9E%E8%AA%9E)
 
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

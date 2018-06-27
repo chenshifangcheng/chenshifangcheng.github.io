@@ -12,7 +12,7 @@ tags:
     - USA Presidents
 ---
 
-> 译 / [陈式方程](https://www.jianshu.com/u/324a0a5a2576)
+> 译 / [Chwyatt](https://chenshifangcheng.github.io/)
 
 ![America's Presidents - Martin Van Buren 美国总统 — 马丁·范布伦](https://upload-images.jianshu.io/upload_images/1833627-badefb21ac57426b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -33,7 +33,7 @@ Jackson asked his party, the Democrats, to nominate Van Buren as their president
 They agreed, and Van Buren won that election easily. But he did not win the next election. Or the next. Or the next.
 他们同意了，范布伦轻易地赢得了那次选举。但是他没能连任，或者下一任，或者再下一任。
 
-**Presidency 总统任期**
+#### Presidency 总统任期
 
 In his **inaugural**[^1] speech in 1837, Van Buren **noted** that he was the first U.S. president to be born after the American Revolution.
 范布伦在1837年的就职演说中**指出**，他是独立战争后出生的第一位美国总统。
@@ -61,7 +61,7 @@ Historian [Joel Silbey](http://www.encyclopedia.com/arts/educational-magazines/s
 However, Silbey notes, Van Buren left an important legacy that still operates today: He created the modern U.S. political system.
 然而，西尔贝指出，范布伦留下了一个重要的遗产，它如今仍旧在运作：他建立了现代美国政治体系。
 
-**Early life 早期生活**
+#### Early life 早期生活
 
 Van Buren’s political education began early.
 范布伦的政治教育启蒙较早。
@@ -83,7 +83,7 @@ When he was 24, he married a young woman he had grown up with. But she died of t
 Historian Joel Silbey says although Van Buren did not remarry, “he was known as quite **charming**[^3] among the **ladies**[^4].”
 历史学家乔尔·西尔贝说，尽管范布伦没有再婚，但他女人缘很好。
 
-**Political animal 政治动物**
+#### Political animal 政治动物
 
 Van Buren had a gift for politics – that is, developing relationships and forming alliances.
 范布伦拥有政治天赋 — 即发展关系并建立联盟。
@@ -117,7 +117,7 @@ Van Buren’s system eventually **gave rise to**[^10] the **national conventions
 
 [^10]: **give rise to** - 使发生，引起，促成，导致，产生
  
-**Model campaigner 模范竞选者**
+#### Model campaigner 模范竞选者
 
 Van Buren also helped create the modern political campaign. In the 1820s, he saw that many state constitutions were lifting some of their voting restrictions. As a result, states were giving more white males the right to vote. (Women and most African-American men were still largely prohibited from voting.)
 范布伦也帮助建立了现代政治运动。19世纪20年代，他看到许多州宪法增加了一些投票限制。结果导致那些州的白人男性有更多的投票权。（妇女和大多数非裔美国人仍然在很大程度上被禁止投票。）
@@ -130,7 +130,7 @@ Historian Joel Silbey says Van Buren wanted to bring these new voters into the D
 Silbey explains that these efforts to persuade and energize voters were new to national politics. Now they are some of the major **features**[^6] of political campaigns.
 西尔贝解释到，说服以及激励选民的方式对于国家政治来讲都是新方法。这些方法在如今的政治活动中扮演着一些主要的角色。
 
-**[Live by the sword, die by the sword](https://zhidao.baidu.com/question/365049861.html) 以其人之道，还治其人之身**
+#### [Live by the sword, die by the sword](https://zhidao.baidu.com/question/365049861.html) 以其人之道，还治其人之身
 
 In the election of 1840, Van Buren sought a second term as president. This time his opponents used Van Buren’s political techniques against him.
 1840年大选，范布伦寻求连任。这次，范布伦的对手用他的政治技巧来对付他。
