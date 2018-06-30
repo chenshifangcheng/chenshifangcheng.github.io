@@ -7,7 +7,7 @@ author:     Chwyatt
 header-img: 
 header-mask: 0.3
 catalog: true
-categories: Telecom
+categories: Android
 tags:
     - Telecom
 ---

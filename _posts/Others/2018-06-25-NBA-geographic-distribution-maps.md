@@ -7,9 +7,9 @@ author:     Chwyatt
 header-img: 
 header-mask: 0.3
 catalog: true
-categories: USA
+categories: Others
 tags:
-    - USA
+    - NBA
 ---
 
 > 文 / [陈式方程](https://www.jianshu.com/u/324a0a5a2576)
