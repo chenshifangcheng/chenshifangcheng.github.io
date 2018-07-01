@@ -9,8 +9,10 @@ header-mask: 0.3
 catalog: true
 categories: English
 tags:
-    - USA Presidents
+    - VOA of America's Presidents
 ---
+
+> 译 / [陈式方程](https://www.jianshu.com/u/324a0a5a2576)
 
 ![America's Presidents - Andrew Jackson 美国总统 — 安德鲁·杰克逊](https://upload-images.jianshu.io/upload_images/1833627-2df19d25292d5956.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

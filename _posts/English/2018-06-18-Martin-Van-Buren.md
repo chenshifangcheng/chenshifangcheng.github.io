@@ -9,10 +9,10 @@ header-mask: 0.3
 catalog: true
 categories: English
 tags:
-    - USA Presidents
+    - VOA of America's Presidents
 ---
 
-> 译 / [Chwyatt](https://chenshifangcheng.github.io/)
+> 译 / [陈式方程](https://www.jianshu.com/u/324a0a5a2576)
 
 ![America's Presidents - Martin Van Buren 美国总统 — 马丁·范布伦](https://upload-images.jianshu.io/upload_images/1833627-badefb21ac57426b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

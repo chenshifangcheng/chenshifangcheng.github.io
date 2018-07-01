@@ -9,8 +9,10 @@ header-mask: 0.3
 catalog: true
 categories: English
 tags:
-    - USA Presidents
+    - VOA of America's Presidents
 ---
+
+> 译 / [陈式方程](https://www.jianshu.com/u/324a0a5a2576)
 
 ![America's Presidents - James Monroe 美国总统 — 詹姆斯·门罗](https://upload-images.jianshu.io/upload_images/1833627-d9ef95e7513aeaa2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

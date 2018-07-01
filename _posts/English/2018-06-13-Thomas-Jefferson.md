@@ -9,8 +9,10 @@ header-mask: 0.3
 catalog: true
 categories: English
 tags:
-    - USA Presidents
+    - VOA of America's Presidents
 ---
+
+> 译 / [陈式方程](https://www.jianshu.com/u/324a0a5a2576)
 
 ![America's Presidents - Thomas Jefferson 美国总统 — 托马斯·杰斐逊](https://upload-images.jianshu.io/upload_images/1833627-951b65672c1f44be.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
