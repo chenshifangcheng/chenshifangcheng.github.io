@@ -4,7 +4,7 @@ title:      Martin Van Buren:Just OK
 subtitle:   马丁·范布伦：勉强可以
 date:       2018-06-18 23:00:00 +0800
 author:     Chwyatt
-header-img: 
+header-img: img/postimg/USA_Presidents.jpg
 header-mask: 0.3
 catalog: true
 categories: English

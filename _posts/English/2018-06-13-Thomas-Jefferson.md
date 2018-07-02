@@ -4,7 +4,7 @@ title:      Thomas Jefferson:Complex
 subtitle:   托马斯·杰斐逊：一位复杂的人物
 date:       2018-06-13 23:00:00 +0800
 author:     Chwyatt
-header-img: 
+header-img: img/postimg/USA_Presidents.jpg
 header-mask: 0.3
 catalog: true
 categories: English

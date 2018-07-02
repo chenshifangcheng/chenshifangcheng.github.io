@@ -4,7 +4,7 @@ title:      John Adams:Second
 subtitle:   约翰·亚当斯：第二任总统
 date:       2018-06-12 23:00:00 +0800
 author:     Chwyatt
-header-img: 
+header-img: img/postimg/USA_Presidents.jpg
 header-mask: 0.3
 catalog: true
 categories: English

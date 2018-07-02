@@ -4,7 +4,7 @@ title:      George Washington:Reluctant
 subtitle:   乔治·华盛顿：不情愿的总统
 date:       2018-06-11 23:00:00 +0800
 author:     Chwyatt
-header-img: 
+header-img: img/postimg/USA_Presidents.jpg
 header-mask: 0.3
 catalog: true
 categories: English

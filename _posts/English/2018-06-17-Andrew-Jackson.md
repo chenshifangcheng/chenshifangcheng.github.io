@@ -4,7 +4,7 @@ title:      Andrew Jackson:Loved/Hated
 subtitle:   安德鲁·杰克逊：又爱又恨
 date:       2018-06-17 23:00:00 +0800
 author:     Chwyatt
-header-img: 
+header-img: img/postimg/USA_Presidents.jpg
 header-mask: 0.3
 catalog: true
 categories: English

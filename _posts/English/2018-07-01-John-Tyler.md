@@ -4,7 +4,7 @@ title:      John Tyler:Unexpected
 subtitle:   约翰·泰勒：意外的
 date:       2018-07-01 23:00:00 +0800
 author:     Chwyatt
-header-img: 
+header-img: img/postimg/USA_Presidents.jpg
 header-mask: 0.3
 catalog: true
 categories: English

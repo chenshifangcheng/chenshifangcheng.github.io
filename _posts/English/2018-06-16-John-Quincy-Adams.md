@@ -4,7 +4,7 @@ title:      John Quincy Adams:Independent
 subtitle:   约翰·昆西·亚当斯：独立
 date:       2018-06-16 23:00:00 +0800
 author:     Chwyatt
-header-img: 
+header-img: img/postimg/USA_Presidents.jpg
 header-mask: 0.3
 catalog: true
 categories: English
