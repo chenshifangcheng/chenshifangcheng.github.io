@@ -101,13 +101,16 @@ service-worker: true
 friends: [
     {
         title: "简书·陈式方程",
-        href: "http://www.jianshu.com/u/324a0a5a2576"
+        href: "https://www.jianshu.com/u/324a0a5a2576"
     },{
         title: "Android Source",
         href: "https://source.android.com/"
     },{
         title: "Android Developer",
         href: "https://developer.android.com/"
+    },{
+        title: "Google Android",
+        href: "https://www.android.com/"
     },{
         title: "Android Xref",
         href: "http://androidxref.com/"
