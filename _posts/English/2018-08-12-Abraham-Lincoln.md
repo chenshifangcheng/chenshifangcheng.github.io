@@ -182,7 +182,7 @@ Next week's article will discuss Lincoln’s presidency and legacy.
 ---
 
 #### 原文链接
-https://learningenglish.voanews.com/a/americas-presidents-abraham-lincoln/3884227.html
+<https://learningenglish.voanews.com/a/americas-presidents-abraham-lincoln/3884227.html>
 
 ---
 
