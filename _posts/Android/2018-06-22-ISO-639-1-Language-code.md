@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      ISO 639-1语言码
+title:      ISO 639-1 语言码
 subtitle:   
-date:       2018-06-22
+date:       2018-06-22 00:00:00 +0800
 author:     Chwyatt
 header-img: 
 header-mask: 0.3
@@ -12,24 +12,9 @@ tags:
     - Telecom
 ---
 
-> 文 / [陈式方程](https://www.jianshu.com/u/324a0a5a2576)
+## ISO 639 介绍
 
-### 注意事项：
-
-* 手机端体验很差，建议电脑端查看。
-* 本篇是基于维基百科内容，详情见链接。
-
----
-### 相关链接：
-
-* [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-* [ISO 639-1代码表](https://zh.wikipedia.org/wiki/ISO_639-1代码表)
-* [语系列表](https://zh.wikipedia.org/wiki/语系列表)
-
----
-### 介绍：
-
- [ISO 639](https://en.wikipedia.org/wiki/ISO_639 "ISO 639") 是用来分类[语言](https://en.wikipedia.org/wiki/Language "Language")的标准命名法（术语）。每种语言分配 2个小写字母缩写（639-1）或 3个小写字母缩写（639-2和639-3），3个字母在后面的修订版本中增加。
+[ISO 639](https://en.wikipedia.org/wiki/ISO_639 "ISO 639") 是用来分类[语言](https://en.wikipedia.org/wiki/Language "Language")的标准命名法（术语）。每种语言分配 2个小写字母缩写（639-1）或 3个小写字母缩写（639-2和639-3），3个字母在后面的修订版本中增加。
 
 这张表列出以下所有内容：
 
@@ -43,7 +28,7 @@ tags:
 
 * [ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3"): 3字母语言码，与639-2/T相同，但是，对于不同种类的ISO 639宏语言，有不同的语言码。
 
----
+## 语言码列表
 
 #### [Indo-European](https://en.wikipedia.org/wiki/Indo-European_languages "Indo-European languages") <br>[印欧语系](https://zh.wikipedia.org/wiki/%E5%8D%B0%E6%AC%A7%E8%AF%AD%E7%B3%BB)
 
@@ -409,3 +394,14 @@ tags:
 | No. | [Language family - 语系](https://en.wikipedia.org/wiki/Language_family "Language family")| ISO language name - ISO语言名称| 中国大陆名称 | Native name (endonym) - 本地名称（名族自称）| [639-1](https://en.wikipedia.org/wiki/ISO_639-1 "ISO 639-1") | [639-2](https://en.wikipedia.org/wiki/ISO_639-2 "ISO 639-2")/T | 639-2/B | [639-3](https://en.wikipedia.org/wiki/ISO_639-3 "ISO 639-3") | Notes | 说明 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 26-1 | [Quechuan](https://en.wikipedia.org/wiki/Quechuan_languages "Quechuan languages") | [Quechua](https://en.wikipedia.org/wiki/Quechua_language "Quechua language") | [凯楚亚语](https://zh.wikipedia.org/wiki/%E5%87%AF%E6%A5%9A%E4%BA%9A%E8%AF%AD) | Runa Simi, Kichwa | [qu](https://www.loc.gov/standards/iso639-2/php/langcodes_name.php?iso_639_1=qu) | que | que | que + [44](https://en.wikipedia.org/wiki/ISO_639_macrolanguage#que "ISO 639 macrolanguage") | macrolanguage | 又译[克丘亚语](https://zh.wikipedia.org/wiki/%E5%85%8B%E4%B8%98%E4%BA%9A%E8%AF%AD "克丘亚语")，玻利维亚 |
+
+## 注意事项：
+
+* 手机端体验很差，建议电脑端查看。
+* 本篇是基于维基百科内容，详情见链接。
+
+## 相关链接：
+
+* [List of ISO 639-1 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+* [ISO 639-1代码表](https://zh.wikipedia.org/wiki/ISO_639-1代码表)
+* [语系列表](https://zh.wikipedia.org/wiki/语系列表)
