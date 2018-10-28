@@ -17,7 +17,7 @@ tags:
 ![America's Presidents - John Tyler 美国总统 — 约翰·泰勒](https://upload-images.jianshu.io/upload_images/1833627-352770176dedd704.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 VOA Learning English presents America’s Presidents.
-美国之音慢速英语之介绍美国总统栏目。
+美国之音慢速英语介绍美国总统栏目。
 
 Today we are talking about a vice president. John Tyler was William Henry Harrison’s partner on the ticket in the 1840 election; he was the “Tyler” of the campaign **slogan**[^1] “Tippecanoe and Tyler, too.”
 今天，我们来谈论一位副总统。1840年总统大选时，约翰·泰勒是[威廉·亨利·哈里森](https://www.jianshu.com/p/7db606749e6b)的选票搭档；他就是竞选口号“蒂珀卡努和泰勒”中的“泰勒”。

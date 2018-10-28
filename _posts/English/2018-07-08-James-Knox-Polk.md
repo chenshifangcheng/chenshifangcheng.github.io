@@ -17,7 +17,7 @@ tags:
 ![America's Presidents - James K. Polk 美国总统 —  詹姆斯·诺克斯·波尔克](https://upload-images.jianshu.io/upload_images/1833627-0f27ee83929efffe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 VOA Learning English presents America’s Presidents.
-美国之音介绍美国总统栏目。
+美国之音慢速英语介绍美国总统栏目。
 
 James Knox Polk moved into the White House as the 11th president of the United States in 1845.
 1845年，詹姆斯·诺克斯·波尔克进入白宫，成为美国第11届总统。

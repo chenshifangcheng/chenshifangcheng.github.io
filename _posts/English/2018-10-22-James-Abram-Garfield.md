@@ -15,7 +15,7 @@ tags:
 ![America's Presidents - James A. Garfield 美国总统 - 詹姆斯·艾伯拉姆·加菲尔德](https://upload-images.jianshu.io/upload_images/1833627-e4ce550ab32937d2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 VOA Learning English presents America’s Presidents.
-美国之音慢速英语介绍总统栏目。
+美国之音慢速英语介绍美国总统栏目。
 
 Today we are talking about James Garfield. He was the 20<sup>th</sup> president of the United States.
 今天，我们来谈论詹姆斯·加菲尔德。他是美国第20任总统。

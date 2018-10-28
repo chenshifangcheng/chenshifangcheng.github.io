@@ -15,7 +15,7 @@ tags:
 ![America's Presidents - Zachary Tylor 美国总统 — 扎卡里·泰勒](https://upload-images.jianshu.io/upload_images/1833627-8a5d63793792c542.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 VOA Learning English presents America’s Presidents.
-美国之音介绍美国总统栏目。
+美国之音慢速英语介绍美国总统栏目。
 
 Today we are talking about Zachary Taylor, the 12<sup>th</sup> president. He took office in 1849.
 今天，我们来谈论下第12届总统扎卡里·泰勒，他在1849年执政。
