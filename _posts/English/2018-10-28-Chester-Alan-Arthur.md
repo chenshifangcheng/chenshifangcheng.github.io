@@ -168,6 +168,8 @@ He died at home at the age of 57.
 #### 原文链接
 <https://learningenglish.voanews.com/a/americas-presidents-chester-arthur/3950367.html>
 
+---
+
 [^1]: **chief executive** - *n.* the president of a country 国家总统
 
 [^2]: **modestly** - *adv.* not very large in size or amount - 适当的；适度的
