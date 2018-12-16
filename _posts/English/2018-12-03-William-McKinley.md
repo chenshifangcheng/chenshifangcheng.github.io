@@ -166,6 +166,7 @@ After McKinley’s death, his vice president, Theodore Roosevelt, took office an
 
 ---
 
+#### 原文链接
 <https://learningenglish.voanews.com/a/americas-presidents-william-mckinley/3979185.html>
 
 ---
