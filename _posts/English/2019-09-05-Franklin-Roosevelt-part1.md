@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Franklin D. Roosevelt:Powerful
-subtitle:   富兰克林·罗斯福：强大
+title:      Franklin D. Roosevelt:Powerful (Part One)
+subtitle:   富兰克林·罗斯福：强大 (第一部分)
 date:       2019-09-05 22:56:00 +0800
 author:     Chwyatt
 header-img: img/postimg/USA_Presidents.jpg
