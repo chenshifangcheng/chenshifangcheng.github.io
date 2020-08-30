@@ -12,7 +12,7 @@ tags:
     - VOA of America's Presidents
 ---
 
-![America's Presidents - Lyndon B. Johnson 美国总统 - 林登·B·约翰逊](https://upload-images.jianshu.io/upload_images/1833627-e8f08f08606fc30d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![America's Presidents - Lyndon B. Johnson 美国总统 - 林登·B·约翰逊](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830092838.png)
 
 VOA Learning English presents America’s Presidents.
 美国之音慢速英语介绍美国总统栏目。
@@ -20,7 +20,7 @@ VOA Learning English presents America’s Presidents.
 Today we are talking about Lyndon Johnson. He was the vice president under John F. Kennedy.
 今天，我们来谈论一下林登·约翰逊。他是约翰·F·肯尼迪时期的副总统。
 
-![Lyndon Johnson takes the oath of office 林登·约翰逊宣誓就职](https://upload-images.jianshu.io/upload_images/1833627-28906e93c3b9720c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Lyndon Johnson takes the oath of office 林登·约翰逊宣誓就职](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830093005.png)
 
 Many Americans recognize Johnson from a [photograph](http://www.history.com/topics/us-presidents/lyndon-b-johnson/videos/johnson-takes-oath-of-office-aboard-air-force-one) of his swearing-in on November 22, 1963.
 很多美国人是从一张1963年11月12日宣誓的照片上认识约翰逊的。
@@ -37,7 +37,7 @@ Men wearing suits look on, while three women stand around him. His wife, Lady Bi
 The photograph showed the American people that the federal government could and would continue in an orderly way.
 这张照片向美国人民展示了联邦政府可以，也会继续有序运行。
 
-![Johnson, pictured here with journalist Drew Pearson in 1967, once said, "I do understand power, whatever else may be said about me. I know where to look for it, and how to use it.'' 1967年，约翰逊和记者德鲁·皮尔森合影，他曾说：“我确实理解权力，不管别人对我如何评价。我知道去哪儿找它，并且知道如何使用它。”](https://upload-images.jianshu.io/upload_images/1833627-f906658f9cc03867.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Johnson, pictured here with journalist Drew Pearson in 1967, once said, "I do understand power, whatever else may be said about me. I know where to look for it, and how to use it.'' 1967年，约翰逊和记者德鲁·皮尔森合影，他曾说：“我确实理解权力，不管别人对我如何评价。我知道去哪儿找它，并且知道如何使用它。”](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830093012.png)
 
 But Johnson’s position was difficult. Many people were shocked and in mourning for the **assassinated**[^1] president.
 但约翰逊的处境很艰难。许多人非常震惊，都在为总统被暗杀而哀悼。
@@ -53,7 +53,7 @@ Lyndon Baines Johnson was born in Texas, where his family had lived for generati
 Lyndon was the oldest of five children. His mother was a teacher and writer, and his father was a farmer and political leader.
 林登是五个孩子中的老大。他的母亲是一位教师和作家，父亲是一位农场主以及政治领袖。
 
-![Johnson also briefly served in the Navy during World War II. 二战期间，约翰逊也曾在海军短暂服役过。](https://upload-images.jianshu.io/upload_images/1833627-3bed00507e4278bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Johnson also briefly served in the Navy during World War II. 二战期间，约翰逊也曾在海军短暂服役过。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830093020.png)
 
 In time, the Johnson family experienced financial difficulties. They had little money to give their children much of an education, but Lyndon was able to attend a teaching college.
 后来，约翰逊一家陷入了财政困难，父母无法负担起孩子们太多的教育，但林登能够上师范学院。
@@ -67,7 +67,7 @@ But he found he could do more to improve people’s lives as a politician than a
 He volunteered for some political campaigns, became an aide to a member of the United States Congress, and in time became a member of Congress himself.
 他自愿参加一些政治活动，当上了一名美国国会议员的副官，并且最终自己成为了一名国会议员。
 
-![When she was a baby, the first lady's nanny said she was "as pretty as a lady bird." The nickname stuck. 当第一夫人还是一个婴儿的时候，她的保姆说她像伯德夫人一样漂亮。从此，就有了这个昵称。](https://upload-images.jianshu.io/upload_images/1833627-066e141bc494ab50.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![When she was a baby, the first lady's nanny said she was "as pretty as a lady bird." The nickname stuck. 当第一夫人还是一个婴儿的时候，她的保姆说她像伯德夫人一样漂亮。从此，就有了这个昵称。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830093026.png)
 
 Along the way, he married a woman named Claudia Taylor. But everyone called her Lady Bird. They went on to have two daughters.
 这期间，他娶了一位名叫克劳迪娅·泰勒的女人。但所有人都叫她伯德夫人。再后来，他们生了两个女儿。
@@ -113,7 +113,7 @@ The [Civil Rights Act](http://www.history.com/topics/black-history/civil-rights-
 The reforms had their critics, [then](https://constitutioncenter.org/blog/the-filibuster-that-almost-killed-the-civil-rights-act/) and [today](http://www.heritage.org/marriage-and-family/commentary/the-war-poverty-50-years-failure). But in the presidential election of 1964, Johnson won [“by the widest margin of popular votes in American history.”](https://millercenter.org/president/lbjohnson/campaigns-and-elections) Historian Kent Germany [says](https://millercenter.org/president/lbjohnson/campaigns-and-elections) that vote gave the Democrats a **rare opening** “to pass a comprehensive liberal program.”
 这些改革也受到了批评，不管是当时还是现在。但在1964年总统大选中，约翰逊以“美国历史上最大的普选差额”获胜。历史学家肯特·德曼说那次投票给了民主党一个**罕见的机会**来“通过一个全面的自由主义计划。”
 
-![Until civil rights laws, many schools, businesses, and public buildings such as libraries and pools were segregated by race. Here, Johnson signs the Civil Rights Act of 1964\. Martin Luther King, Jr. and other leaders look on. 在民权法案到来之前，很多学校、商业和公共建筑，比如图书馆和游泳池都因种族隔离。照片中，约翰逊正在签署《1964年民权法案》。马丁·路德·金和其他领导人在旁观看。](https://upload-images.jianshu.io/upload_images/1833627-0cbd085a955b4286.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Until civil rights laws, many schools, businesses, and public buildings such as libraries and pools were segregated by race. Here, Johnson signs the Civil Rights Act of 1964\. Martin Luther King, Jr. and other leaders look on. 在民权法案到来之前，很多学校、商业和公共建筑，比如图书馆和游泳池都因种族隔离。照片中，约翰逊正在签署《1964年民权法案》。马丁·路德·金和其他领导人在旁观看。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830093035.png)
 
 Presidency after 1964
 1964年后的总统生涯
@@ -124,7 +124,7 @@ Johnson had a name for such a program. He called it the “Great Society.” He 
 Johnson followed his earlier reforms with others. They sought to prevent crime, reduce pollution, support the arts, make roads safer, and protect American **consumers**[^6] against bad products. His administration also [created an immigration policy](https://www.voanews.com/a/united-states-history-of-immigration-restrictions/3700234.html) that valued family members, skilled workers, and refugees.
 约翰逊和其他人遵循了他早期的改革。这些改革旨在预防犯罪、减少污染、支持艺术、拓宽道路以及保护美国消费者免于劣质产品。约翰逊政府还建立了一项重视家庭成员、技术工人和难民的移民政策。
 
-![In early 1965, civil rights activists tried to register black voters around Selma, Alabama. Their actions led to violence and helped inspire Johnson to push for additional civil rights laws. 1965年初，民权积极分子尝试在阿拉巴马州的塞尔玛登记黑人投票。该活动引发了暴力事件，并且促使约翰逊加快推行了其他民权法案。](https://upload-images.jianshu.io/upload_images/1833627-810f5fefdf38aebe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![In early 1965, civil rights activists tried to register black voters around Selma, Alabama. Their actions led to violence and helped inspire Johnson to push for additional civil rights laws. 1965年初，民权积极分子尝试在阿拉巴马州的塞尔玛登记黑人投票。该活动引发了暴力事件，并且促使约翰逊加快推行了其他民权法案。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830093042.png)
 
 Johnson also signed the Voting Rights Act of 1965\. It sought to lift the barriers that had long prevented African-American men and women from exercising their right to vote.
 约翰逊还签署了《1965年投票权法案》。该法案旨在消除长期阻碍非裔美国男性和女性行使投票权的障碍。
@@ -144,7 +144,7 @@ President Johnson continued Kennedy’s policies. He also [received the support 
 Yet, when he was a presidential candidate in 1964, Johnson promised not to increase U.S. involvement and send young Americans to fight in Vietnam.
 然而，1964年约翰逊作为总统候选人时，承诺不会增加美国的干预以及送美国年轻人去越南战场。
 
-![Johnson awards the Distinguished Service Cross to First Lieutenant Marty A. Hammer, in Vietnam. 约翰逊在越南向中尉马蒂·A·汉默颁发铜十字英勇勋章。](https://upload-images.jianshu.io/upload_images/1833627-79e22287b6248e68.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Johnson awards the Distinguished Service Cross to First Lieutenant Marty A. Hammer, in Vietnam. 约翰逊在越南向中尉马蒂·A·汉默颁发铜十字英勇勋章。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830093352.png)
 
 The opposite happened.
 然而，相反的事情发生了。
@@ -161,7 +161,7 @@ By early 1968, Johnson had become deeply unpopular with voters. His party lost s
 In addition, the U.S. economy was showing signs of weakness, partly because of the costs of the conflict in Vietnam and government spending at home.
 另外，美国的经济呈现出疲软迹象，部分原因是由于越南冲突的成本和国内政府的开销。
 
-![Johnson near the end of his time in office 约翰逊接近他的执政尾声。](https://upload-images.jianshu.io/upload_images/1833627-ccdf02f33fde9e65.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Johnson near the end of his time in office 约翰逊接近他的执政尾声。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830093227.png)
 
 As the presidential nominating process began in early 1968, Johnson was permitted to seek another four-year term. But he announced that he would not seek or accept his party’s nomination.
 1968年初，总统竞选提名开始时，约翰逊是可以寻求连任的，但他宣布放弃党内提名。
@@ -183,7 +183,7 @@ By the time Johnson left office in January 1969, his party had lost control of t
 After he left the presidency, Johnson returned to his home in Texas. He wrote his memories about his White House years, and made preparations for his presidential library.
 约翰逊离任后，返回了德克萨斯州的家中，撰写白宫回忆录，准备他的总统图书馆。
 
-![Johnson at his Texas ranch in 1972\. One of his legacies remains the 25th amendment, which was ratified during his time in office. 1972年，约翰逊在他的德州农场。他的遗产之一是在他任职期间通过的第25修正案。](https://upload-images.jianshu.io/upload_images/1833627-5de7614ae9a910e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Johnson at his Texas ranch in 1972\. One of his legacies remains the 25th amendment, which was ratified during his time in office. 1972年，约翰逊在他的德州农场。他的遗产之一是在他任职期间通过的第25修正案。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830093412.png)
 
 But he did not live much longer. He died in 1973, hours before the U.S. involvement in Vietnam officially came to a close.
 但他并没有活多久。他于1973年去世，几个小时后，美国正式结束了越南战争。

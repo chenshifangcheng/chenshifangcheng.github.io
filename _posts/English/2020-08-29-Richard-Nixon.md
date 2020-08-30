@@ -12,7 +12,7 @@ typora-copy-images-to: upload
 tags:
     - VOA of America's Presidents
 ---
-![America's Presidents - Richard Nixon 美国总统 - 理查德·尼克松](https://upload-images.jianshu.io/upload_images/1833627-22687cf87a8c29b5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![America's Presidents - Richard Nixon 美国总统 - 理查德·尼克松](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830091446.png)
 
 VOA Learning English presents America’s Presidents.
 美国之音慢速英语介绍美国总统栏目。
@@ -20,7 +20,7 @@ VOA Learning English presents America’s Presidents.
 Today we are talking about Richard Nixon.
 今天，我们谈论的是理查德·尼克松。
 
-![Richard Milhaus Nixon 理查德·米尔豪斯·尼克松](https://upload-images.jianshu.io/upload_images/1833627-f40fb6595aa52e74.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Richard Milhaus Nixon 理查德·米尔豪斯·尼克松](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830092623.png)
 
 Nixon is well-known to many Americans for one reason: he was the only president to resign from the position. Facing possible legal action by Congress, Nixon left office early in his second term.
 尼克松因一个原因而被美国大众所知：他是唯一一位辞职的总统。尼克松由于面临国会潜在的法律诉讼，而被迫在第二任期内早早离任。
@@ -51,7 +51,7 @@ Instead, he attended a local college, where he became the **student body preside
 Even with his **impressive**[^3] background, [he did not get the jobs he sought at the Federal Bureau of Investigation – the FBI](https://www.smithsonianmag.com/history/document-deep-dive-richard-nixons-application-join-fbi-180950329/) – or top law offices. So he returned the California town where he grew up and began working as a lawyer.
 尽管他学术背景令人印象深刻，但也无法在联邦调查局或顶级律师事务所寻求到一份工作。所以，他回到了加州他长大的地方，开始律师职业。
 
-![Richard Nixon with daughters 理查德·尼克松和两个女儿](https://upload-images.jianshu.io/upload_images/1833627-cd22611a72c4e92d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Richard Nixon with daughters 理查德·尼克松和两个女儿](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830092640.png)
 
 There, he married another actor at the community theater. Her name was Thelma Ryan, but she was called Pat. The Nixons went on to have two daughters, Tricia and Julie.
 在那儿，他和一位社区剧场的演员结婚。她的名字叫特尔玛·瑞安，但人们都称她帕特。尼克松夫妇婚后生育了两个女儿，翠西亚和朱莉。
@@ -59,7 +59,7 @@ There, he married another actor at the community theater. Her name was Thelma Ry
 In 1942, Nixon accepted a job with the federal government in Washington, DC. He did not stay in the position long. After the United States entered World War II, Nixon joined the Navy. He served as an officer in the Pacific.
 1942年，尼克松接受了一份华盛顿联邦政府的工作，但这份工作他做得不久。美国参加二战后，尼克松加入了海军，作为一名军官在太平洋服役。
 
-![Nixon helped pay for his first campaign with money he won playing poker in the Navy. 尼克松的第一次竞选资金来自于他在海军服役时玩扑克赢得的。](https://upload-images.jianshu.io/upload_images/1833627-e8c0ddc44dfcda02.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Nixon helped pay for his first campaign with money he won playing poker in the Navy. 尼克松的第一次竞选资金来自于他在海军服役时玩扑克赢得的。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830092647.png)
 
 When he returned to the U.S., Republican Party officials asked him to be a candidate for Congress. Nixon agreed. He won two terms in the House of Representatives, and then a seat in the U.S. Senate.
 当他返回美国时，共和党选中他作为国会议员候选人，尼克松接受了。他当选了两届众议员，然后在参议院获得一个席位。
@@ -81,7 +81,7 @@ The case was big news in the United States. It showed the clash between people w
 Nixon was in the second group. He was part of the investigation against Hiss and pushed for his **indictment**[^5]. Nixon’s efforts succeeded, and Hiss went to jail for almost four years. Later, [Nixon said](http://www.nytimes.com/books/97/03/09/reviews/hiss-obit.html) that the case was one of the reasons for his rise to power.
 尼克松属于后者。他参与了希斯案的调查，积极推进对于希斯的控告。尼克松成功了，希斯入狱近四年时间。后来，尼克松承认该案件对他权力的提升起了部分作用。
 
-![The Checkers speech taught politicians the importance of TV in creating a public image. It also helped Nixon and Eisenhower win the presidential election of 1952\. They are pictured here with their wives. “跳棋演讲”让政治家们了解到电视演讲对于塑造公众形象的重要性。该演讲也帮助尼克松和艾森豪威尔赢得了1952年的总统大选。上图为他们当时和妻子的合照。](https://upload-images.jianshu.io/upload_images/1833627-219e1eb54a8985d5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![The Checkers speech taught politicians the importance of TV in creating a public image. It also helped Nixon and Eisenhower win the presidential election of 1952\. They are pictured here with their wives. “跳棋演讲”让政治家们了解到电视演讲对于塑造公众形象的重要性。该演讲也帮助尼克松和艾森豪威尔赢得了1952年的总统大选。上图为他们当时和妻子的合照。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830092659.png)
 
 Nixon also earned national attention with an event that has become known as the Checkers speech. It happened in 1952, when Nixon was running for vice president.
 尼克松还因一篇“跳棋演讲”（尼克松竞选期间，媒体大肆渲染尼克松拥有所谓的富豪基金会为其进行政治募捐，共和党高层建议尼克松亲自上电视解释，尼克松同意了。他在演讲中公布了微薄的财产，还表示到目前唯一收到的礼物是别人寄给他女儿的一条狗，名叫跳棋，并表示无论如何，他们都将继续收养它，也因此，这篇演讲被称为“跳棋演讲”）引起了全国的广泛关注。该事件发生在1952年，尼克松竞选副总统期间。
@@ -110,7 +110,7 @@ Nixon said he was retiring from politics. He famously told reporters, “You won
 Yet seven years later, he was in the White House. It was one of the most memorable **comebacks**[^6] in U.S. political history.
 然而七年之后，他入主白宫。这是美国政治历史上一次最著名的复出之一。
 
-![Richard Nixon makes his first public appearance in Miami Beach Aug. 5, 1968\. The Republican National Convention selected Nixon as the nominee for president. (AP Photo) 理查德·尼克松于1968年8月5日在迈阿密海滩的第一次公共露面。共和党全国代表大会提名尼克松为总统候选人。（美联社照片）](https://upload-images.jianshu.io/upload_images/1833627-985b268634599c80.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Richard Nixon makes his first public appearance in Miami Beach Aug. 5, 1968\. The Republican National Convention selected Nixon as the nominee for president. (AP Photo) 理查德·尼克松于1968年8月5日在迈阿密海滩的第一次公共露面。共和党全国代表大会提名尼克松为总统候选人。（美联社照片）](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830092711.png)
 
 #### Presidency 总统生涯
 
@@ -144,14 +144,14 @@ And Nixon did succeed in reaching a peace agreement with North Vietnamese leader
 Nixon’s foreign policy achievements helped him in the 1972 election campaign. His first presidential election had been extremely close; the second he won by one of the widest electoral vote margins in U.S. history.
 尼克松外交政策上的成功对他1972年的竞选产生了帮助。他的第一次总统选举跟对手非常接近；第二次，他赢得了美国历史上最广泛的选举团票。
 
-![**FILE** In this Feb 24, 1972 file photo, U.S. President Richard M. Nixon and first lady Pat Nixon are seen as they visit the tombs of Chinese emperors of the Ming Dynasty, in the suburbs of China's capital of Beijing. **档案** 在这张1972年2月24日的档案照片中，美国总统理查德·M·尼克松携第一夫人帕特·尼克松参观了中国明朝皇帝的墓葬群，该墓葬群位于中国首都北京的郊区。](https://upload-images.jianshu.io/upload_images/1833627-835157299ede7874.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![**FILE** In this Feb 24, 1972 file photo, U.S. President Richard M. Nixon and first lady Pat Nixon are seen as they visit the tombs of Chinese emperors of the Ming Dynasty, in the suburbs of China's capital of Beijing. **档案** 在这张1972年2月24日的档案照片中，美国总统理查德·M·尼克松携第一夫人帕特·尼克松参观了中国明朝皇帝的墓葬群，该墓葬群位于中国首都北京的郊区。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830092719.png)
 
 #### Watergate 水门事件
 
 Even though he was popular with voters, Nixon had been concerned about his political future. Nixon was so worried that, before the election, he created a secret team to prevent any damaging information from reaching the media. Later, its job expanded to include investigating any information that might hurt his public image.
 即使尼克松在选民当中受到欢迎，他也一直担心他的政治前途。在选举之前，尼克松非常担心，他成立了一个秘密小组来阻止媒体获得任何不利信息。后来，该小组的工作范围扩大到包括调查任何可能有损他公众形象的信息。
 
-![FILE - In this March 15, 1973, file photo President Nixon tells a White House news conference that he will not allow his legal counsel, John Dean, to testify on Capitol Hill in the Watergate investigation. 在这张1973年3月15日的档案照片中，尼克松总统在白宫新闻发布会上说，他不会允许他的法律顾问约翰·迪安，在水门事件调查中向国会山作证。](https://upload-images.jianshu.io/upload_images/1833627-796b3768ba84cabe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![FILE - In this March 15, 1973, file photo President Nixon tells a White House news conference that he will not allow his legal counsel, John Dean, to testify on Capitol Hill in the Watergate investigation. 在这张1973年3月15日的档案照片中，尼克松总统在白宫新闻发布会上说，他不会允许他的法律顾问约翰·迪安，在水门事件调查中向国会山作证。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830092729.png)
 
 About five months before Election Day, five men broke into the opposition party’s headquarters at the Watergate, a hotel and office complex, in Washington, DC.
 选举日之前大约五个月，5名男子溜进民主党总部[水门大厦](https://baike.baidu.com/item/%E6%B0%B4%E9%97%A8%E5%A4%A7%E5%8E%A6)，一家位于华盛顿的酒店和办公楼的综合大厦。
@@ -189,14 +189,14 @@ At the same time, the House of Representatives voted to remove Nixon from office
 Finally, Nixon released the tapes. But before the Senate could hold a trial – in which the president would almost certainly be found guilty – Richard Nixon resigned. He left the White House the following day.
 最终，尼克松交出了录音带。但在参议院审讯之前 — 该审讯几乎可以肯定总统的罪行 — 理查德·尼克松辞职了。第二天，他就离开了白宫。
 
-![Richard Nixon bids farewell to his Cabinet, aides, and staff on August 9, 1974 1974年8月9日，理查德·尼克松和他的内阁，副官及工作人员告别。](https://upload-images.jianshu.io/upload_images/1833627-023d65ebec054b15.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Richard Nixon bids farewell to his Cabinet, aides, and staff on August 9, 1974 1974年8月9日，理查德·尼克松和他的内阁，副官及工作人员告别。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830092736.png)
 
 #### Legacy 遗产
 
 Nixon lived for 20 more years. He wrote a number of books, traveled, spent time with his family, and offered foreign policy advice to other leaders. He continued to deny that he had done anything criminal as president; instead, Nixon said he had made bad decisions.
 尼克松卸任后又生活了20多年。他写了很多书，旅游，和家人一起，并在外交政策方面向其他领导人建言献策。他一直否认当总统时做过任何犯罪的事情；相反，尼克松承认做了错误的决定。
 
-![Nixon spoke about the Watergate scandal during a series of TV interviews with Sir David Frost in 1977. 在大卫·弗罗斯特的一系列电视访谈节目中，尼克松谈到了水门丑闻。](https://upload-images.jianshu.io/upload_images/1833627-6aaa53316a647220.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![Nixon spoke about the Watergate scandal during a series of TV interviews with Sir David Frost in 1977. 在大卫·弗罗斯特的一系列电视访谈节目中，尼克松谈到了水门丑闻。](https://cdn.jsdelivr.net/gh/chenshifangcheng/PictureBed/BlogImg/20200830092743.png)
 
 And he did not go to trial. The next president, Gerald Ford, used his power to pardon Nixon “for all offenses against the United States.”
 而且，他没有受到审判。继任总统杰拉尔德·福特，动用了总统权力赦免了尼克松“对美国犯下的所有罪行”。
